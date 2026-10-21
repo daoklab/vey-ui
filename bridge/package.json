@@ -1,0 +1,11 @@
+{
+  "name": "vey-gateway-console-bridge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.9.1"
+  }
+}
